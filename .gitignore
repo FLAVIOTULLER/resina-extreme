@@ -2,3 +2,6 @@ node_modules/
 .DS_Store
 Thumbs.db
 *.log
+
+# Backup local de mídias não utilizadas no site
+_unused_media/
